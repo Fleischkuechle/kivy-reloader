@@ -12,3 +12,6 @@ dmypy.json
 temp
 dist
 poetry.lock
+
+/dev_env
+dev_env
