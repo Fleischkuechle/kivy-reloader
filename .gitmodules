@@ -1,0 +1,3 @@
+[submodule "standalone_env_in_parent_python_310"]
+    path = standalone_env_in_parent_python_310
+    url = https://github.com/Fleischkuechle/standalone_env_in_parent_python_310.git
